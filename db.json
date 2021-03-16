@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Pensé pour moi même, Livre VI",
+      "content": "Il est honteux que, dans le temps où ton corps ne se laisse point abattre, ton âme, en ce même moment, se laisse abattre avant lui.",
+      "authors": "Marc Aurèle"
+    },
+    {
+      "id": 2,
+      "title": "Pensé pour moi même, Livre VIII",
+      "content": "Les hommes sont faits les uns pour les autres; instruit-les donc ou support-les.",
+      "authors": "Marc Aurèle"
+    },
+    {
+      "title": "test 2",
+      "content": "gsfsefsef",
+      "authors": "sefsgrs",
+      "id": 4
+    }
+  ]
+}
